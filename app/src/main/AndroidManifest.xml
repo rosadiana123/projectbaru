@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Projectbaru">
         <activity
+            android:name=".Diana6"
+            android:exported="true" />
+        <activity
+            android:name=".Diana5"
+            android:exported="true" />
+        <activity
+            android:name=".Diana4"
+            android:exported="true" />
+        <activity
+            android:name=".Diana3"
+            android:exported="true" />
+        <activity
+            android:name=".Diana2"
+            android:exported="true" />
+        <activity
+            android:name=".Diana1"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
